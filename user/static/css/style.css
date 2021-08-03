@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Zilla+Slab+Highlight|Marck+Script|&display=swap');
+
+
+.jumbo-color{
+    background-color:darkslategrey;
+}
+.brand-k{
+	font-family: 'Zilla Slab Highlight', cursive;
+	font-size: 50px;	
+	color:crimson;
+}
+.brand-dar{
+	font-family: 'Zilla Slab Highlight', cursive;
+	font-size: 50px;
+	color:black;
+}
+.brand-l{
+	font-family: 'Great Vibes', cursive;
+	font-size: 50px;
+	color: cornflowerblue;
+}
+.brand-ogs{
+	font-family: 'Marck Script', cursive;
+	font-size: 50px;
+	color:orangered;
+}
+
+.collapse{
+	margin-left: 20px;
+}
+
+.image{
+	height: 250px;
+	width: 200px;
+	border-radius: 10%;
+}
+
+.form-control{
+	background-color: darkgray;
+}
